@@ -31,6 +31,10 @@
     color: #b51d21;
     font-weight: bold;
 }
+.hyperlink
+{
+    color: #0373b3;
+}
 .timestamp
 {
     color: #6e6e6e;
@@ -41,6 +45,8 @@
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #6e6e6e;
+    font-size: 1.5em;
+    font-weight: normal;
 }
 
 .table
